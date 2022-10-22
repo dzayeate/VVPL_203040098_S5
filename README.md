@@ -33,7 +33,7 @@ IntelliJ : https://www.jetbrains.com/idea/download/
 ```bash
 Java    : https://github.com/SeleniumHQ/selenium/releases/download/selenium-4.5.0/selenium-java-4.5.2.zip
 Python  : https://pypi.python.org/pypi/selenium
-c#      : https://www.nuget.org/api/v2/package/Selenium.WebDriver
+C#      : https://www.nuget.org/api/v2/package/Selenium.WebDriver
 Other   : https://www.selenium.dev/downloads/
 *Chose One
 ```
